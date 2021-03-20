@@ -15,7 +15,7 @@
 @rem
 
 
-set JAVA_HOME=I:\DOWNLOADS\jdk-14.0.2_windows-x64_bin.exe
+set JAVA_HOME=C:\Program Files\AdoptOpenJDK\jdk-11.0.8.10-hotspot
 
 @if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
