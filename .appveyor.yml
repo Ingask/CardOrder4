@@ -11,6 +11,7 @@ build: off  # будем использовать свой скрипт сбор
 install:
   -java -jar ./artifacts/app-card-delivery.jar &
   - chmod +x gradlew
+  - chmod +x ./driver/chromedriver.exe
 
 
 build_script:
