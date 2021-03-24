@@ -14,6 +14,8 @@
 @rem limitations under the License.
 @rem
 
+set JAVA_HOME=C:\Program Files\AdoptOpenJDK\jdk-11.0.8.10-hotspot\bin
+
 @if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
 @rem
